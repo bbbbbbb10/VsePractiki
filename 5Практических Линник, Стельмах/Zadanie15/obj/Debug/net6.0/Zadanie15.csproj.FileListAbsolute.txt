@@ -1,0 +1,15 @@
+D:\ИС-23\Practica1\Zadanie15\bin\Debug\net6.0\Zadanie15.exe
+D:\ИС-23\Practica1\Zadanie15\bin\Debug\net6.0\Zadanie15.deps.json
+D:\ИС-23\Practica1\Zadanie15\bin\Debug\net6.0\Zadanie15.runtimeconfig.json
+D:\ИС-23\Practica1\Zadanie15\bin\Debug\net6.0\Zadanie15.dll
+D:\ИС-23\Practica1\Zadanie15\bin\Debug\net6.0\Zadanie15.pdb
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\Zadanie15.csproj.AssemblyReference.cache
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\Zadanie15.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\Zadanie15.AssemblyInfoInputs.cache
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\Zadanie15.AssemblyInfo.cs
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\Zadanie15.csproj.CoreCompileInputs.cache
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\Zadanie15.dll
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\refint\Zadanie15.dll
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\Zadanie15.pdb
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\Zadanie15.genruntimeconfig.cache
+D:\ИС-23\Practica1\Zadanie15\obj\Debug\net6.0\ref\Zadanie15.dll

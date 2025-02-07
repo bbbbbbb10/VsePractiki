@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZadanieDvymernMassivPr5/1.0.0": {
+        "runtime": {
+          "ZadanieDvymernMassivPr5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZadanieDvymernMassivPr5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

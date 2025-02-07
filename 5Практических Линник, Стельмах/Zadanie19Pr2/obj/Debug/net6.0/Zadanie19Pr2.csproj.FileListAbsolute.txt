@@ -1,0 +1,15 @@
+D:\ИС-23\Practica1\Zadanie19Pr2\bin\Debug\net6.0\Zadanie19Pr2.exe
+D:\ИС-23\Practica1\Zadanie19Pr2\bin\Debug\net6.0\Zadanie19Pr2.deps.json
+D:\ИС-23\Practica1\Zadanie19Pr2\bin\Debug\net6.0\Zadanie19Pr2.runtimeconfig.json
+D:\ИС-23\Practica1\Zadanie19Pr2\bin\Debug\net6.0\Zadanie19Pr2.dll
+D:\ИС-23\Practica1\Zadanie19Pr2\bin\Debug\net6.0\Zadanie19Pr2.pdb
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\Zadanie19Pr2.csproj.AssemblyReference.cache
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\Zadanie19Pr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\Zadanie19Pr2.AssemblyInfoInputs.cache
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\Zadanie19Pr2.AssemblyInfo.cs
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\Zadanie19Pr2.csproj.CoreCompileInputs.cache
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\Zadanie19Pr2.dll
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\refint\Zadanie19Pr2.dll
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\Zadanie19Pr2.pdb
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\Zadanie19Pr2.genruntimeconfig.cache
+D:\ИС-23\Practica1\Zadanie19Pr2\obj\Debug\net6.0\ref\Zadanie19Pr2.dll

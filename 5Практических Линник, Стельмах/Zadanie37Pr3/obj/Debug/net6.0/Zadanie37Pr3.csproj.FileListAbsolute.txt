@@ -1,0 +1,15 @@
+D:\ИС-23\Practica1\Zadanie37Pr3\bin\Debug\net6.0\Zadanie37Pr3.exe
+D:\ИС-23\Practica1\Zadanie37Pr3\bin\Debug\net6.0\Zadanie37Pr3.deps.json
+D:\ИС-23\Practica1\Zadanie37Pr3\bin\Debug\net6.0\Zadanie37Pr3.runtimeconfig.json
+D:\ИС-23\Practica1\Zadanie37Pr3\bin\Debug\net6.0\Zadanie37Pr3.dll
+D:\ИС-23\Practica1\Zadanie37Pr3\bin\Debug\net6.0\Zadanie37Pr3.pdb
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\Zadanie37Pr3.csproj.AssemblyReference.cache
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\Zadanie37Pr3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\Zadanie37Pr3.AssemblyInfoInputs.cache
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\Zadanie37Pr3.AssemblyInfo.cs
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\Zadanie37Pr3.csproj.CoreCompileInputs.cache
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\Zadanie37Pr3.dll
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\refint\Zadanie37Pr3.dll
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\Zadanie37Pr3.pdb
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\Zadanie37Pr3.genruntimeconfig.cache
+D:\ИС-23\Practica1\Zadanie37Pr3\obj\Debug\net6.0\ref\Zadanie37Pr3.dll

@@ -1,0 +1,15 @@
+D:\ИС-23\Practica1\Practica1\bin\Debug\net6.0\Practica1.exe
+D:\ИС-23\Practica1\Practica1\bin\Debug\net6.0\Practica1.deps.json
+D:\ИС-23\Practica1\Practica1\bin\Debug\net6.0\Practica1.runtimeconfig.json
+D:\ИС-23\Practica1\Practica1\bin\Debug\net6.0\Practica1.dll
+D:\ИС-23\Practica1\Practica1\bin\Debug\net6.0\Practica1.pdb
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\Practica1.csproj.AssemblyReference.cache
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\Practica1.AssemblyInfoInputs.cache
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\Practica1.AssemblyInfo.cs
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\Practica1.csproj.CoreCompileInputs.cache
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\Practica1.dll
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\refint\Practica1.dll
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\Practica1.pdb
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\Practica1.genruntimeconfig.cache
+D:\ИС-23\Practica1\Practica1\obj\Debug\net6.0\ref\Practica1.dll
